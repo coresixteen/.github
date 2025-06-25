@@ -29,16 +29,6 @@ AI, 머신러닝, 기술통계, 확률 기반 모델, NLP 등 첨단 기술을 �
 
 ---
 
-## 🔧 주요 프로젝트
-
-| 프로젝트 | 설명 |
-|----------|------|
-| [`usdkrw-gru`](https://github.com/coresixteen/usdkrw-gru) | 딥러닝 기반 환율 예측 모델 |
-| [`event-auto`](https://github.com/coresixteen/event-auto) | 이벤트 기반 금융 텍스트 분석 및 시그널 생성 |
-| [`SellSmart`](https://sellsmart.market) | 정교한 매도 전략 기반 리서치 및 투자 분석 |
-
----
-
 ## 🧠 기술 스택
 
 - AI 기반 환율 예측
