@@ -1,11 +1,5 @@
 <h1 align="center">🚀 Hello, We Are CORE16!</h1>
 
-<div align="center">
-<a href="https://coresixteen.com/">
-  <img src="https://static.wanted.co.kr/images/wdes/0_4.fd42cc36.png" height=360>
-</a>
-</div>
-
 <h4 align="center">
   <b><a href="https://sellsmart.market/">SellSmart</a></b>
   •
